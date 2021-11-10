@@ -2,7 +2,7 @@
 
 An evolving, open-access database of the largest collection of palaecological information in the Indo-Pacific region (focussed on Australia, but with coverage of the Indo-Pacific region more generally)
 
-The database can be accessed <a href="http://hdl.handle.net/1885/144167">here</a>
+The database can be accessed <a href="http://hdl.handle.net/1885/144167">here</a>.
 
 At the moment there are > 280 pollen records in Australia included, with ongoing curation to include > 1250 records in the region.
 
