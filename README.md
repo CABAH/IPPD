@@ -12,3 +12,5 @@ Hope, G. Indo-Pacific Pollen Database. PalaeoWorks Technical Report No. 2, Depar
 ## Associated publications
 - Adeleye, MA, SG Haberle, SE Connor, J Stevenson, DMJS Bowman. 2021. <a href="http://doi.org/10.3390/fire4020017">Indigenous fire-managed landscapes in southeast Australia during the Holocene — new insights from the Furneaux Group Islands, Bass Strait</a>. <em>Fire</em> 4: 17. doi:10.3390/fire4020017
 - Adeleye, MA, M Mariani, S Connor, SG Haberle, A Herbert, F Hopf, J Stevenson, J. 2021. <a href="http://doi.org/10.1111/geb.13232">Long-term drivers of vegetation turnover in Southern Hemisphere temperate ecosystems</a>. <em>Global Ecology and Biogeography</em> 30: 557-571. doi:10.1111/geb.13232
+
+[<img src="CabahFCP.jpg" alt="Centre of Excellence for Australian Biodiversity and Heritage" width="170" align="right" />](http://EpicAustralia.org.au)
